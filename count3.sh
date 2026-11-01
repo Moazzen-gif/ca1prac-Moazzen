@@ -1,1 +1,1 @@
-'echo Three'
+echo "THREE"
